@@ -25,6 +25,8 @@ If you encounter any bugs, or have suggestions to improve the theme - Contact me
 
 Head over to [GitHub](https://github.com/MJPeppersdev/Meeku) to contribute
 
+![2019-06-13_15-49-50](https://user-images.githubusercontent.com/28616709/59472669-1c6db800-8df4-11e9-9bce-596e7fea5513.png)
+
 # Customization
 
 On VS Code 1.12+ you are able to customize the colors to liking, overriding the provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
