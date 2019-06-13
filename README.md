@@ -2,6 +2,8 @@
 
 A unique, original theme for VS Code
 
+![2019-06-13_15-52-18](https://user-images.githubusercontent.com/28616709/59472506-8b96dc80-8df3-11e9-9b30-a7dc57622e9c.png)
+
 # Install
 
 This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mjpeppersdev.meeku):
