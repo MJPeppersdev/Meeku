@@ -2,7 +2,7 @@
 
 A unique, original theme for VS Code
 
-![2019-06-13_15-52-18](https://user-images.githubusercontent.com/28616709/59472506-8b96dc80-8df3-11e9-9b30-a7dc57622e9c.png)
+![Meeku](https://user-images.githubusercontent.com/28616709/59473379-1d541900-8df7-11e9-98ad-830ed4103950.png)
 
 # Install
 
