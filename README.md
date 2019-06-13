@@ -29,6 +29,6 @@ Head over to [GitHub](https://github.com/MJPeppersdev/Meeku) to contribute
 
 # Customization
 
-On VS Code 1.12+ you are able to customize the colors to liking, overriding the provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+On VS Code 1.12+ you are able to customize the colors to your liking, overriding those provided by this theme. More info [here](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 
 **Enjoy!**
