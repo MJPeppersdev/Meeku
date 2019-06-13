@@ -4,7 +4,7 @@ A unique, original theme for VS Code
 
 # Install
 
-This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/):
+This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mjpeppersdev.meeku):
 
 1. Open VS Code go to View -> Command Palette
 2. Type Install Extension
@@ -17,7 +17,7 @@ If you encounter any bugs, or have suggestions to improve the theme - Contact me
 
 # Contribute
 
-Head over to [GitHub](https://github.com/mjpeppersdev/Meeku) to contribute
+Head over to [GitHub](https://github.com/MJPeppersdev/Meeku) to contribute
 
 # Customization
 
