@@ -19,6 +19,8 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 
 If you encounter any bugs, or have suggestions to improve the theme - Contact me or feel free to fork the project and create a pull request.
 
+![2019-06-13_15-50-32](https://user-images.githubusercontent.com/28616709/59472622-edefdd00-8df3-11e9-8da8-d437748c3814.png)
+
 # Contribute
 
 Head over to [GitHub](https://github.com/MJPeppersdev/Meeku) to contribute
