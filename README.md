@@ -13,6 +13,8 @@ This extension is available in the [Visual Studio Code Marketplace](https://mark
 3. Write Meeku
 4. Select it or press Enter to install
 
+![2019-06-13_15-43-15](https://user-images.githubusercontent.com/28616709/59472585-c8fb6a00-8df3-11e9-894f-6e9bb73fa0e8.png)
+
 # Improvements
 
 If you encounter any bugs, or have suggestions to improve the theme - Contact me or feel free to fork the project and create a pull request.
