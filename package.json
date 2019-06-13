@@ -1,0 +1,37 @@
+{
+    "name": "meeku",
+    "displayName": "Meeku",
+    "description": "Your new everyday theme.",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#003d7a",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/mjpeppersdev/Meeku",
+    "bugs": {
+        "url": "https://github.com/mjpeppersdev/Meeku/issues",
+        "email": "mjpeppersdev@protonmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mjpeppersdev/Meeku.git"
+    },
+    "version": "0.0.1",
+    "publisher": "Michael J Peppers <mjpeppersdev@protonmail.com>",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Meeku",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Meeku-color-theme.json"
+            }
+        ]
+    }
+}
